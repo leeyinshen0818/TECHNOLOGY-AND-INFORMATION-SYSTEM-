@@ -18,4 +18,3 @@
 <img src = "Slide/s17.jpg" width = "500" >
 <img src = "Slide/s18.jpg" width = "500" >
 <img src = "Slide/s19.jpg" width = "500" >
-<img src = "Slide/s20.jpg" width = "500" >
