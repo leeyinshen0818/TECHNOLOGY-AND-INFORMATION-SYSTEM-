@@ -1,2 +1,2 @@
 ## Newsletter
-<img src = "IMG/Newsletter-HUAWEI&PETRONAS.jpg" width = "100" >
+<img src = "IMG/Newsletter1.jpg" width = "500" >
